@@ -1,5 +1,4 @@
-{'ver1':'61', 'ver2':'1', 'ver3':'\n•🔗 Fixed Link Device Problem (100% Working).\n•🎨 Premium UI Redesign (Smooth & Stylish).\n•🛠️ Bug Fixes & Stability Improvements.\n•📥 Don’t miss out… update now and enjoy all the new improvements!.\n' , 'dli':'https://www.jubatek.com'}
-
+{'ver1':'62', 'ver2':'1', 'ver3':'\n•🔗 تم إصلاح مشكلة جهاز الربط (يعمل بنسبة 100%).\n•🎨 إعادة تصميم واجهة المستخدم المميزة (سلسة وأنيقة).\n•🛠️ إصلاحات للأخطاء وتحسينات في الاستقرار.\n•📥 لا تفوت الفرصة... قم بالتحديث الآن واستمتع بجميع التحسينات الجديدة!.\n' , 'dli':'https://www.jubatek.com'}
 
 
 
